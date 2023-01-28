@@ -1,6 +1,6 @@
 ![](https://github.com/albuska/albuska/blob/main/image/dcccv.jpg)
 
-## A FullStack Developer from Ukraine
+## I'm a beginner FullStack Developer from Ukraine
 
 
 ## EDUCATION
