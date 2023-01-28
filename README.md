@@ -13,7 +13,6 @@
 
 
 <img src="https://img.shields.io/badge/codewars-8B0000?style=for-the-badge&logo=Codewars&logoColor=white" />
-
 ![](https://www.codewars.com/users/albinaanistratenko/badges/small)
 
 ## MY STACK TECHNOLOGIES
