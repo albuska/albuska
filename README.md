@@ -3,7 +3,7 @@
 ## I'm a beginner FullStack Developer from Ukraine
 
 
-:## EDUCATION:
+## :EDUCATION:
 
 <img src="https://img.shields.io/badge/goit-00008B?style=for-the-badge&logo=goit&logoColor=white"/> 
 
