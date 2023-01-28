@@ -1,7 +1,9 @@
-Hi 👋
+<h3>Hi 👋 </h3>
 
-I'm Albina Anistratenko, 
+<h2>I'm Albina Anistratenko, 
+  
 a FullStack Developer from Ukraine.
+</h2>
 
 <h4><b>EDUCATION</b></h4>
 
