@@ -21,6 +21,8 @@
 
 ## MOST USED LANGUAGES
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albuska&layout=compact)](https://github.com/albuska/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuska&show_icons=true&theme=tokyonight)
 
 ## CONTACTS
