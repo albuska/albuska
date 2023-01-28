@@ -1,7 +1,5 @@
 ![](https://github.com/albuska/albuska/blob/main/image/dcccv.jpg)
 
-## Hi 👋 
-
 ## A FullStack Developer from Ukraine
 
 
