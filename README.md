@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/albuska/albuska/blob/main/image/dcccv.jpg)
 
 <h3>Hi 👋 </h3>
 
