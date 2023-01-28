@@ -1,4 +1,4 @@
-![Header](https://github.com/albuska/albuska/blob/main/image/1662064538_11-oir-mobi-p-svetlo-serii-fon-dlya-storis-krasivo-11.jpg)
+(https://github.com/albuska/albuska/blob/main/image/1662064538_11-oir-mobi-p-svetlo-serii-fon-dlya-storis-krasivo-11.jpg)
 
 <h3>Hi 👋 </h3>
 
